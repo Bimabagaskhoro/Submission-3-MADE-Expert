@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Submission IDcamp</string>
+
+    <string name="tab_movie">Film</string>
+    <string name="tab_tvshow">TV Show</string>
+    <string name="tv_movie">TV MOVIE</string>
+    <string name="film">FILM</string>
+    <string name="realesed">Rilis</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="bahasa">Bahasa :</string>
+    <string name="ganti_bahasa">Ganti bahasa</string>
+</resources>

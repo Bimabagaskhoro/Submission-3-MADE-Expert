@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303A70</color>
+    <color name="colorPrimaryDark">#303A70</color>
+    <color name="colorAccent">#FF0054</color>
+    <color name="colorgrey">#868383</color>
+    <color name="bgtxt">#E4E3E3</color>
+    <color name="kuning">#FF5722</color>
+    <color name="asd">#303A70</color>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission IDcamp</string>
+
+    <string name="tab_movie">Film</string>
+    <string name="tab_tvshow">TV Show</string>
+    <string name="tv_movie">TV MOVIE</string>
+    <string name="film">FILM</string>
+    <string name="realesed">Released</string>
+    <string name="deskripsi">Description</string>
+    <string name="bahasa">Language :</string>
+    <string name="ganti_bahasa">change Language</string>
+</resources>
